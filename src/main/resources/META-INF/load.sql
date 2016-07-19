@@ -1,0 +1,1 @@
+insert into users (email) VALUES ('philippe.wanner@students.bfh.ch');
