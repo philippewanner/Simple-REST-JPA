@@ -8,6 +8,16 @@
             <set />
           </value>
         </entry>
+        <entry key="$USER_HOME$/Desktop/physioQMap-Backend/pom.xml">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/ReserveYourRoom.iml">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/pom.xml">
           <value>
             <set />
@@ -89,6 +99,11 @@
           </value>
         </entry>
         <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/5cc195fc-00f4-4ae3-a3ff-830132b65628/console.sql">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$APPLICATION_CONFIG_DIR$/consoles/db/5cc195fc-00f4-4ae3-a3ff-830132b65628/console_1.sql">
           <value>
             <set />
           </value>

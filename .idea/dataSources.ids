@@ -8,6 +8,15 @@
     <case-sensitivity plain-identifiers="mixed" quoted-identifiers="upper"/>
     <database-model serializer="dbm" rdbms="MYSQL" format-version="2.5">
       <schema id="1" name="reserveyourroomdb"/>
+      <table id="2" parent="1" name="users"/>
+      <column id="3" parent="2" name="email">
+        <mandatory>1</mandatory>
+        <data-type>varchar(50)</data-type>
+      </column>
+      <key id="4" parent="2" name="PRIMARY">
+        <columns>email</columns>
+        <primary>1</primary>
+      </key>
     </database-model>
   </data-source>
 </component>
