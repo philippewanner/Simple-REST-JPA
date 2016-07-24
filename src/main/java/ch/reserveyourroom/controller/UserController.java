@@ -28,7 +28,6 @@ public class UserController {
         for (User user : userService.getAll()){
             builder.add(Json.createObjectBuilder().add("email", user.getEmail()));
         }
-        builder.add(Json.createObjectBuilder().add("amount", userService.getAll().size()));
         return builder.build();
     }
 }
